@@ -1,0 +1,207 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="640" viewBox="0 0 1400 640">
+<title>SN-02 CALÇA CARGO CINTURA ALTA — desenho técnico</title>
+
+<defs>
+  <pattern id="rib" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="4" fill="#81B9BC"/>
+    <line x1="1" y1="0" x2="1" y2="4" stroke="#111111" stroke-width="0.6"/>
+  </pattern>
+  <pattern id="mesh" width="5" height="5" patternUnits="userSpaceOnUse">
+    <rect width="5" height="5" fill="#A0A0A2"/>
+    <circle cx="2.5" cy="2.5" r="1.2" fill="#111111"/>
+  </pattern>
+  <pattern id="ripstop" width="10" height="10" patternUnits="userSpaceOnUse">
+    <rect width="10" height="10" fill="#959BA8"/>
+    <path d="M0 0.5H10M0.5 0V10" stroke="#666F81" stroke-width="0.7"/>
+  </pattern>
+  <pattern id="twill" width="6" height="6" patternUnits="userSpaceOnUse">
+    <rect width="6" height="6" fill="#8CBFC2"/>
+    <path d="M-1 7L7 -1M-1 1L1 -1M5 7L7 5" stroke="#63A8AD" stroke-width="0.8"/>
+  </pattern>
+  <pattern id="circuit" width="40" height="40" patternUnits="userSpaceOnUse">
+    <rect width="40" height="40" fill="#EEECE7"/>
+    <path d="M0 10H14L20 16V30H40M8 40V30H14M26 0V8L32 14H40M30 30V22" fill="none" stroke="#A0A0A2" stroke-width="0.8"/>
+    <circle cx="14" cy="30" r="1.6" fill="#F5A524"/>
+    <circle cx="30" cy="22" r="1.4" fill="none" stroke="#8A8C8E" stroke-width="0.7"/>
+  </pattern>
+</defs>
+<rect id="Fundo" width="1400" height="640" fill="#FFFFFF"/>
+<g id="Vista_Frente"><g transform="translate(40 70) scale(1.0)"><g id="F_Base_Pecas" data-layer="Base_Pecas"><g><path d="M200,62 L127,62 C121,90 116,120 116,150 C116,260 120,380 122,470 L178,470 C182,380 190,260 200,200 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M200,40 L128,40 L127,62 L200,62 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M142,37 L149,37 L149,66 L142,66 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M118,222 L160,222 L160,292 L119,292 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M116,211 L162,211 L162,233 L117,233 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/></g><g transform="matrix(-1 0 0 1 400 0)"><path d="M200,62 L127,62 C121,90 116,120 116,150 C116,260 120,380 122,470 L178,470 C182,380 190,260 200,200 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M200,40 L128,40 L127,62 L200,62 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M142,37 L149,37 L149,66 L142,66 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M118,222 L160,222 L160,292 L119,292 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M116,211 L162,211 L162,233 L117,233 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/></g></g>
+<g id="F_Costuras_Pespontos" data-layer="Costuras_Pespontos"><g><path d="M130,44 L200,44 M130,58 L200,58" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M119,150 C119,260 123,380 125,452" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M122,452 L178,452 M122,456 L178,456" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M121,322 Q152,334 187,324" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M121,342 Q152,354 186,344" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M121,325 Q152,337 187,327" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M152,62 C150,85 138,105 117,118" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M157,62 C155,88 142,110 117,124" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M167,62 L166,104" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M186,62 L186,150 Q186,172 200,178" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M139,234 L139,292" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M121,225 L121,289 L157,289 L157,225" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M119,214 L159,214" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/></g><g transform="matrix(-1 0 0 1 400 0)"><path d="M130,44 L200,44 M130,58 L200,58" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M119,150 C119,260 123,380 125,452" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M122,452 L178,452 M122,456 L178,456" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M121,322 Q152,334 187,324" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M121,342 Q152,354 186,344" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M121,325 Q152,337 187,327" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M152,62 C150,85 138,105 117,118" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M157,62 C155,88 142,110 117,124" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M167,62 L166,104" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M139,234 L139,292" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M121,225 L121,289 L157,289 L157,225" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M119,214 L159,214" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/></g></g>
+<g id="F_Aviamentos" data-layer="Aviamentos"><g><path d="M125,462 C114,470 111,482 115,494" fill="none" stroke="#111111" stroke-width="1.6"/>
+<path d="M127,463 C120,472 120,482 121,494" fill="none" stroke="#111111" stroke-width="1.6"/>
+<rect x="111" y="486" width="12" height="9" rx="2" fill="#F5A524" stroke="#111111" stroke-width="1.1"/>
+<circle cx="125" cy="462" r="2.4" fill="#fff" stroke="#111111" stroke-width="1"/>
+<circle cx="200" cy="51" r="4.2" fill="#2B2D31" stroke="#111111" stroke-width="1.1"/>
+<circle cx="139" cy="227" r="3" fill="#2B2D31" stroke="#111111" stroke-width="1"/></g><g transform="matrix(-1 0 0 1 400 0)"><path d="M125,462 C114,470 111,482 115,494" fill="none" stroke="#111111" stroke-width="1.6"/>
+<path d="M127,463 C120,472 120,482 121,494" fill="none" stroke="#111111" stroke-width="1.6"/>
+<rect x="111" y="486" width="12" height="9" rx="2" fill="#F5A524" stroke="#111111" stroke-width="1.1"/>
+<circle cx="125" cy="462" r="2.4" fill="#fff" stroke="#111111" stroke-width="1"/>
+<circle cx="139" cy="227" r="3" fill="#2B2D31" stroke="#111111" stroke-width="1"/></g></g>
+<g id="F_Cotas_Medidas" data-layer="Cotas_Medidas"><g><line x1="128" y1="24" x2="272" y2="24" stroke="#C0392B" stroke-width="0.8"/><line x1="128" y1="18" x2="128" y2="30" stroke="#C0392B" stroke-width="0.8"/><line x1="272" y1="18" x2="272" y2="30" stroke="#C0392B" stroke-width="0.8"/><text x="200.0" y="19" text-anchor="middle" font-size="10" fill="#C0392B" font-family="JetBrains Mono, Consolas, monospace">cintura 72</text>
+<line x1="300" y1="40" x2="300" y2="470" stroke="#C0392B" stroke-width="0.8"/><line x1="294" y1="40" x2="306" y2="40" stroke="#C0392B" stroke-width="0.8"/><line x1="294" y1="470" x2="306" y2="470" stroke="#C0392B" stroke-width="0.8"/><text x="306" y="255.0" font-size="10" fill="#C0392B" font-family="JetBrains Mono, Consolas, monospace" transform="rotate(90 306 255.0)" text-anchor="middle" dy="-2">comp. lateral 102</text>
+<line x1="222" y1="514" x2="278" y2="514" stroke="#C0392B" stroke-width="0.8"/><line x1="222" y1="508" x2="222" y2="520" stroke="#C0392B" stroke-width="0.8"/><line x1="278" y1="508" x2="278" y2="520" stroke="#C0392B" stroke-width="0.8"/><text x="250.0" y="509" text-anchor="middle" font-size="10" fill="#C0392B" font-family="JetBrains Mono, Consolas, monospace">boca 34</text>
+<circle cx="139" cy="252" r="46" fill="none" stroke="#C0392B" stroke-width="1" stroke-dasharray="4 2"/><circle cx="172.12" cy="218.88" r="8" fill="#C0392B"/><text x="172.12" y="222.38" text-anchor="middle" font-size="10" font-weight="bold" fill="#fff" font-family="JetBrains Mono, Consolas, monospace">A</text>
+<circle cx="122" cy="474" r="30" fill="none" stroke="#C0392B" stroke-width="1" stroke-dasharray="4 2"/><circle cx="143.6" cy="452.4" r="8" fill="#C0392B"/><text x="143.6" y="455.9" text-anchor="middle" font-size="10" font-weight="bold" fill="#fff" font-family="JetBrains Mono, Consolas, monospace">B</text></g></g></g></g>
+<g id="Vista_Costas"><g transform="translate(500 70) scale(1.0)"><g id="C_Base_Pecas" data-layer="Base_Pecas"><g><path d="M200,62 L127,62 C121,90 116,120 116,150 C116,260 120,380 122,470 L178,470 C182,380 190,260 200,200 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M200,40 L128,40 L127,62 L200,62 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M142,37 L149,37 L149,66 L142,66 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M140,124 L184,128 L182,176 L161,184 L140,174 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M196,37 L204,37 L204,66 L196,66 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/></g><g transform="matrix(-1 0 0 1 400 0)"><path d="M200,62 L127,62 C121,90 116,120 116,150 C116,260 120,380 122,470 L178,470 C182,380 190,260 200,200 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M200,40 L128,40 L127,62 L200,62 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M142,37 L149,37 L149,66 L142,66 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M140,124 L184,128 L182,176 L161,184 L140,174 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/></g></g>
+<g id="C_Costuras_Pespontos" data-layer="Costuras_Pespontos"><g><path d="M130,44 L200,44 M130,58 L200,58" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M119,150 C119,260 123,380 125,452" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M122,452 L178,452 M122,456 L178,456" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M121,322 Q152,334 187,324" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M121,342 Q152,354 186,344" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M121,325 Q152,337 187,327" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M127,92 L200,110" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M127,96 L200,114" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M196,62 L197,198" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M143,128 L181,131 L179,173 L161,180 L143,171 Z" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/></g><g transform="matrix(-1 0 0 1 400 0)"><path d="M130,44 L200,44 M130,58 L200,58" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M119,150 C119,260 123,380 125,452" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M122,452 L178,452 M122,456 L178,456" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M121,322 Q152,334 187,324" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M121,342 Q152,354 186,344" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M121,325 Q152,337 187,327" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M127,92 L200,110" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M127,96 L200,114" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M143,128 L181,131 L179,173 L161,180 L143,171 Z" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/></g></g>
+<g id="C_Aviamentos" data-layer="Aviamentos"><g><path d="M125,462 C114,470 111,482 115,494" fill="none" stroke="#111111" stroke-width="1.6"/>
+<path d="M127,463 C120,472 120,482 121,494" fill="none" stroke="#111111" stroke-width="1.6"/>
+<rect x="111" y="486" width="12" height="9" rx="2" fill="#F5A524" stroke="#111111" stroke-width="1.1"/>
+<circle cx="125" cy="462" r="2.4" fill="#fff" stroke="#111111" stroke-width="1"/></g><g transform="matrix(-1 0 0 1 400 0)"><path d="M125,462 C114,470 111,482 115,494" fill="none" stroke="#111111" stroke-width="1.6"/>
+<path d="M127,463 C120,472 120,482 121,494" fill="none" stroke="#111111" stroke-width="1.6"/>
+<rect x="111" y="486" width="12" height="9" rx="2" fill="#F5A524" stroke="#111111" stroke-width="1.1"/>
+<circle cx="125" cy="462" r="2.4" fill="#fff" stroke="#111111" stroke-width="1"/></g></g></g></g>
+<g id="Detalhes">
+<clipPath id="clipcalcaA"><circle cx="1060" cy="250" r="95"/></clipPath>
+<g clip-path="url(#clipcalcaA)"><rect x="965" y="155" width="190" height="190" fill="#fff"/><g transform="translate(768.0999999999999 -279.20000000000005) scale(2.1)"><g id="DA_Base_Pecas" data-layer="Base_Pecas"><g><path d="M200,62 L127,62 C121,90 116,120 116,150 C116,260 120,380 122,470 L178,470 C182,380 190,260 200,200 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M200,40 L128,40 L127,62 L200,62 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M142,37 L149,37 L149,66 L142,66 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M118,222 L160,222 L160,292 L119,292 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M116,211 L162,211 L162,233 L117,233 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/></g><g transform="matrix(-1 0 0 1 400 0)"><path d="M200,62 L127,62 C121,90 116,120 116,150 C116,260 120,380 122,470 L178,470 C182,380 190,260 200,200 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M200,40 L128,40 L127,62 L200,62 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M142,37 L149,37 L149,66 L142,66 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M118,222 L160,222 L160,292 L119,292 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M116,211 L162,211 L162,233 L117,233 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/></g></g>
+<g id="DA_Costuras_Pespontos" data-layer="Costuras_Pespontos"><g><path d="M130,44 L200,44 M130,58 L200,58" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M119,150 C119,260 123,380 125,452" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M122,452 L178,452 M122,456 L178,456" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M121,322 Q152,334 187,324" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M121,342 Q152,354 186,344" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M121,325 Q152,337 187,327" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M152,62 C150,85 138,105 117,118" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M157,62 C155,88 142,110 117,124" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M167,62 L166,104" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M186,62 L186,150 Q186,172 200,178" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M139,234 L139,292" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M121,225 L121,289 L157,289 L157,225" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M119,214 L159,214" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/></g><g transform="matrix(-1 0 0 1 400 0)"><path d="M130,44 L200,44 M130,58 L200,58" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M119,150 C119,260 123,380 125,452" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M122,452 L178,452 M122,456 L178,456" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M121,322 Q152,334 187,324" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M121,342 Q152,354 186,344" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M121,325 Q152,337 187,327" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M152,62 C150,85 138,105 117,118" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M157,62 C155,88 142,110 117,124" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M167,62 L166,104" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M139,234 L139,292" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M121,225 L121,289 L157,289 L157,225" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M119,214 L159,214" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/></g></g>
+<g id="DA_Aviamentos" data-layer="Aviamentos"><g><path d="M125,462 C114,470 111,482 115,494" fill="none" stroke="#111111" stroke-width="1.6"/>
+<path d="M127,463 C120,472 120,482 121,494" fill="none" stroke="#111111" stroke-width="1.6"/>
+<rect x="111" y="486" width="12" height="9" rx="2" fill="#F5A524" stroke="#111111" stroke-width="1.1"/>
+<circle cx="125" cy="462" r="2.4" fill="#fff" stroke="#111111" stroke-width="1"/>
+<circle cx="200" cy="51" r="4.2" fill="#2B2D31" stroke="#111111" stroke-width="1.1"/>
+<circle cx="139" cy="227" r="3" fill="#2B2D31" stroke="#111111" stroke-width="1"/></g><g transform="matrix(-1 0 0 1 400 0)"><path d="M125,462 C114,470 111,482 115,494" fill="none" stroke="#111111" stroke-width="1.6"/>
+<path d="M127,463 C120,472 120,482 121,494" fill="none" stroke="#111111" stroke-width="1.6"/>
+<rect x="111" y="486" width="12" height="9" rx="2" fill="#F5A524" stroke="#111111" stroke-width="1.1"/>
+<circle cx="125" cy="462" r="2.4" fill="#fff" stroke="#111111" stroke-width="1"/>
+<circle cx="139" cy="227" r="3" fill="#2B2D31" stroke="#111111" stroke-width="1"/></g></g></g></g>
+<circle cx="1060" cy="250" r="95" fill="none" stroke="#C0392B" stroke-width="1.4"/>
+<circle cx="1128.4" cy="181.60000000000002" r="12" fill="#C0392B"/><text x="1128.4" y="186.60000000000002" text-anchor="middle" font-size="14" font-weight="bold" fill="#fff" font-family="JetBrains Mono, Consolas, monospace">A</text>
+<text x="1060" y="369" text-anchor="middle" font-size="11" fill="#111111" font-family="JetBrains Mono, Consolas, monospace">Bolso cargo c/</text><text x="1060" y="384" text-anchor="middle" font-size="11" fill="#111111" font-family="JetBrains Mono, Consolas, monospace">fole, lapela e pressão</text>
+<clipPath id="clipcalcaB"><circle cx="1270" cy="250" r="95"/></clipPath>
+<g clip-path="url(#clipcalcaB)"><rect x="1175" y="155" width="190" height="190" fill="#fff"/><g transform="translate(891.8 -1219.4) scale(3.1)"><g id="DB_Base_Pecas" data-layer="Base_Pecas"><g><path d="M200,62 L127,62 C121,90 116,120 116,150 C116,260 120,380 122,470 L178,470 C182,380 190,260 200,200 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M200,40 L128,40 L127,62 L200,62 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M142,37 L149,37 L149,66 L142,66 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M118,222 L160,222 L160,292 L119,292 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M116,211 L162,211 L162,233 L117,233 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/></g><g transform="matrix(-1 0 0 1 400 0)"><path d="M200,62 L127,62 C121,90 116,120 116,150 C116,260 120,380 122,470 L178,470 C182,380 190,260 200,200 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M200,40 L128,40 L127,62 L200,62 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M142,37 L149,37 L149,66 L142,66 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M118,222 L160,222 L160,292 L119,292 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M116,211 L162,211 L162,233 L117,233 Z" fill="url(#twill)" stroke="#111111" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/></g></g>
+<g id="DB_Costuras_Pespontos" data-layer="Costuras_Pespontos"><g><path d="M130,44 L200,44 M130,58 L200,58" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M119,150 C119,260 123,380 125,452" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M122,452 L178,452 M122,456 L178,456" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M121,322 Q152,334 187,324" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M121,342 Q152,354 186,344" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M121,325 Q152,337 187,327" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M152,62 C150,85 138,105 117,118" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M157,62 C155,88 142,110 117,124" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M167,62 L166,104" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M186,62 L186,150 Q186,172 200,178" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M139,234 L139,292" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M121,225 L121,289 L157,289 L157,225" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M119,214 L159,214" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/></g><g transform="matrix(-1 0 0 1 400 0)"><path d="M130,44 L200,44 M130,58 L200,58" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M119,150 C119,260 123,380 125,452" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M122,452 L178,452 M122,456 L178,456" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M121,322 Q152,334 187,324" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M121,342 Q152,354 186,344" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M121,325 Q152,337 187,327" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M152,62 C150,85 138,105 117,118" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M157,62 C155,88 142,110 117,124" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M167,62 L166,104" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M139,234 L139,292" fill="none" stroke="#111111" stroke-width="1.1" stroke-linecap="round"/>
+<path d="M121,225 L121,289 L157,289 L157,225" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/>
+<path d="M119,214 L159,214" fill="none" stroke="#111111" stroke-width="0.8" stroke-dasharray="3 2"/></g></g>
+<g id="DB_Aviamentos" data-layer="Aviamentos"><g><path d="M125,462 C114,470 111,482 115,494" fill="none" stroke="#111111" stroke-width="1.6"/>
+<path d="M127,463 C120,472 120,482 121,494" fill="none" stroke="#111111" stroke-width="1.6"/>
+<rect x="111" y="486" width="12" height="9" rx="2" fill="#F5A524" stroke="#111111" stroke-width="1.1"/>
+<circle cx="125" cy="462" r="2.4" fill="#fff" stroke="#111111" stroke-width="1"/>
+<circle cx="200" cy="51" r="4.2" fill="#2B2D31" stroke="#111111" stroke-width="1.1"/>
+<circle cx="139" cy="227" r="3" fill="#2B2D31" stroke="#111111" stroke-width="1"/></g><g transform="matrix(-1 0 0 1 400 0)"><path d="M125,462 C114,470 111,482 115,494" fill="none" stroke="#111111" stroke-width="1.6"/>
+<path d="M127,463 C120,472 120,482 121,494" fill="none" stroke="#111111" stroke-width="1.6"/>
+<rect x="111" y="486" width="12" height="9" rx="2" fill="#F5A524" stroke="#111111" stroke-width="1.1"/>
+<circle cx="125" cy="462" r="2.4" fill="#fff" stroke="#111111" stroke-width="1"/>
+<circle cx="139" cy="227" r="3" fill="#2B2D31" stroke="#111111" stroke-width="1"/></g></g></g></g>
+<circle cx="1270" cy="250" r="95" fill="none" stroke="#C0392B" stroke-width="1.4"/>
+<circle cx="1338.4" cy="181.60000000000002" r="12" fill="#C0392B"/><text x="1338.4" y="186.60000000000002" text-anchor="middle" font-size="14" font-weight="bold" fill="#fff" font-family="JetBrains Mono, Consolas, monospace">B</text>
+<text x="1270" y="369" text-anchor="middle" font-size="11" fill="#111111" font-family="JetBrains Mono, Consolas, monospace">Canaleta c/ cordão</text><text x="1270" y="384" text-anchor="middle" font-size="11" fill="#111111" font-family="JetBrains Mono, Consolas, monospace">+ stopper âmbar</text>
+</g>
+<g id="Textos_Gerais" font-family="JetBrains Mono, Consolas, monospace" fill="#111111"><text x="40" y="40" font-size="18" font-weight="bold">SN-02 · CALÇA CARGO CINTURA ALTA</text><text x="1360" y="40" font-size="11" text-anchor="end">Coleção SINAL · tam. M · medidas em cm · sem escala</text><text x="240" y="610" font-size="13" text-anchor="middle" letter-spacing="3">FRENTE</text><text x="700" y="610" font-size="13" text-anchor="middle" letter-spacing="3">COSTAS</text><text x="1165" y="610" font-size="13" text-anchor="middle" letter-spacing="3">DETALHES AMPLIADOS</text><line x1="40" y1="54" x2="1360" y2="54" stroke="#111111" stroke-width="0.8"/></g>
+</svg>
